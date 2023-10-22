@@ -14,4 +14,20 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+
+    margin-bottom: 3.7rem;
+}
+
+main{
+    padding-inline: 1.5rem;
+}
+
+:root{
+    --cinza-800: #1e2938;
+    --cinza-600: #475569;
+}
+
+.descricao h1{
+    color: var(--cinza-800);
+    margin-bottom: 1rem;
 }
