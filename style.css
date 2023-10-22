@@ -30,4 +30,10 @@ main{
 .descricao h1{
     color: var(--cinza-800);
     margin-bottom: 1rem;
+    font-size: 1.5625rem;
+}
+
+.descricao p{
+    font-size: 0.8125rem ;
+    color: var(--cinza-600);
 }
