@@ -98,4 +98,15 @@ main{
     font-size: 1rem;
     font-weight: 700;
     color: var(--branco);
+    margin-bottom: 2rem;
+}
+
+.login> p{
+    color: var(--cinza-600);
+
+}
+
+.login >  p a{
+    font-weight: 700;
+    font-size: 1rem;
 }
