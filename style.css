@@ -28,6 +28,7 @@ main{
     --cinza-400: #94a3b8;
     --cinza-200: #e2e8f0;
     --roxo: #7c3aed;
+    --branco: #fff;
 }
 .descricao{
     margin-bottom: 2.5rem;
@@ -86,4 +87,15 @@ main{
 
 .login a:hover{
     text-decoration: underline;
+}
+.login button{
+    margin-top: 1rem;
+    padding-block: 1rem;
+    width: 100%;
+    background-color: var(--roxo);
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--branco);
 }
